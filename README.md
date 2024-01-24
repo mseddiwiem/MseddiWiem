@@ -9,23 +9,23 @@
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 <code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a></code>
 <code><a href="https://kubernetes.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></a></code>
-<code><a href="https://git-scm.com//" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
+<code><a  target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
 <code><a  target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></a></code>
 <code><a target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code>
-<code><a href="https://git-scm.com//" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/hibernate/hibernatear21.svg"></a></code>
-<code><a href="https://git-scm.com//" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></a></code>
-<code><a href="https://git-scm.com//" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></a></code>
-<code><a href="https://git-scm.com//" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></a></code>
-<code><a href="https://git-scm.com//" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></a></code>
-<code><a href="https://git-scm.com//" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
-<code><a href="https://git-scm.com//" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
-<code><a href="https://git-scm.com//" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></a></code>
-<code><a href="https://git-scm.com//" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></a></code>
-<code><a href="https://git-scm.com//" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
-<code><a href="https://git-scm.com//" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code>
-<code><a href="https://git-scm.com//" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></a></code>
-<code><a href="https://git-scm.com//" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></a></code>
-<code><a href="https://git-scm.com//" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg"></a></code>
+<code><a  target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/hibernate/hibernatear21.svg"></a></code>
+<code><a  target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></a></code>
+<code><a target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></a></code>
+<code><a  target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></a></code>
+<code><a  target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></a></code>
+<code><a  target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
+<code><a  target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
+<code><a  target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></a></code>
+<code><a target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></a></code>
+<code><a  target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
+<code><a  target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code>
+<code><a  target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></a></code>
+<code><a  target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></a></code>
+<code><a  target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg"></a></code>
 
 
 
