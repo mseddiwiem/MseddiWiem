@@ -2,7 +2,8 @@
 <h1 align="center">Hi There 👋</h1>
 <h3 align="center">I'am a passionate Computer Engineer from Tunisia</h3>
 
-**🛠 Languages and technologies : **
+###
+🛠 Languages and technologies : 
 
 <code><a href="https:///" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
 <code><a href="https://go.dev/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"></a></code>
