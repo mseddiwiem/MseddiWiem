@@ -28,9 +28,7 @@
 <code><a  target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg"></a></code>
 <code><a  target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></a></code>
 
-<br><br>
-
-<div align="center">
+<br>
 
 📫 Reach me at: <br>
 <a href="https://www.linkedin.com/in/wiem-mseddi/" target="_blank">
@@ -39,8 +37,5 @@
 <a href="mailto:wiem.mseddi@enis.tn" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Email">
 </a>
-
-
-</div>  
 <br><br>
 <h3 align="left">🔥   Stats :</h3>
