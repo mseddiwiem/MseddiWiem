@@ -1,5 +1,7 @@
 ![logo](https://github.com/mseddiwiem/MseddiWiem/blob/8cc316d8b8a6c4d503bd7e5a4ded9d6362493b53/logo.png)
-
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mseddiwiem.mseddiwiem&"  />
+</div>
 <br> <br>
 
 <h3 align="left">🛠  Languages and technologies : </h3>
