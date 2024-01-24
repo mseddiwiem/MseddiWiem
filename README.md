@@ -2,8 +2,8 @@
 <h3 align="center">I'am a passionate Computer Engineer from Tunisia</h3>
 
 <br> <br>
-🛠 Languages and technologies : 
 
+<h3 align="left">🛠  Languages and technologies : </h3>
 <code><a href="https:///" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 <code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a></code>
@@ -29,7 +29,7 @@
 
 <br>
 
-📫 Reach me at: 
+<h3 align="left">📫  Reach me at: </h3>
 <br>
 <a href="https://www.linkedin.com/in/wiem-mseddi/" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn">
